@@ -1,0 +1,14 @@
+.person{
+    display: block;
+    margin: 8px;
+    padding: 2px 12px;
+    background-color: lavender;
+    color: black;
+    border: 5px solid velvet;
+    border-radius: 3px;
+}
+
+.person:hover{
+    color: black;
+    background-color:crimson;
+}
